@@ -1,7 +1,7 @@
 # cintel-06-continuous-intelligence
 
-[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://denisecase.github.io/cintel-06-continuous-intelligence/)
-[![CI Status](https://github.com/denisecase/cintel-06-continuous-intelligence/actions/workflows/ci-python-zensical.yml/badge.svg?branch=main)](https://github.com/denisecase/cintel-06-continuous-intelligence/actions/workflows/ci-python-zensical.yml)
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://jugurthakacimi.github.io/cintel-06-continuous-intelligence/)
+[![CI Status](https://github.com/jugurthakacimi/cintel-06-continuous-intelligence/actions/workflows/ci-python-zensical.yml/badge.svg?branch=main)](https://github.com/jugurthakacimi/cintel-06-continuous-intelligence/actions/workflows/ci-python-zensical.yml)
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
 
@@ -119,7 +119,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/cintel-06-continuous-intelligence
+git clone https://github.com/jugurthakacimi/cintel-06-continuous-intelligence
 
 cd cintel-06-continuous-intelligence
 code .
