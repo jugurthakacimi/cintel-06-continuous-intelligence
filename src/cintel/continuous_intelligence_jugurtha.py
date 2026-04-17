@@ -164,7 +164,7 @@ def main() -> None:
 
     summary_df = df.select(
         [
-            pl.col("transactions").mean().alias("avg_requests"),
+            pl.col("transactions").mean().alias("avg_transactions"),
             pl.col("flagged_transactions").mean().alias("avg_flagged_transactions"),
             pl.col("flag_rate").mean().alias("avg_flag_rate"),
             pl.col("avg_amount_usd").mean().alias("avg_amount_usd"),

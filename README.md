@@ -156,3 +156,7 @@ git push -u origin main
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
 - Use `CTRL+f` to find (and replace) text within a file.
+
+## Technical Modification
+
+ For this project, I replaced the original system metrics data with a financial transactions dataset representing daily activity at a bank. The new columns track the total number of transactions processed, the number of flagged transactions, and the total dollar amount. The pipeline gets two key signals from this data (the flag rate and average transaction amount) and uses them to assess whether the system is in a STABLE or DEGRADED state.
